@@ -1,3 +1,4 @@
 st
 *.o
 patches
+config.h.bak
